@@ -1,0 +1,71 @@
+=====================================================
+Vendor Compliance Policy Handbook
+=====================================================
+
+Section 1 - Website Security
+
+Rule 1:
+Every vendor website must use HTTPS.
+
+Rule 2:
+HTTP websites are considered non-compliant.
+
+-----------------------------------------------------
+
+Section 2 - Privacy
+
+Rule 3:
+Every vendor should publish a Privacy Policy.
+
+Rule 4:
+Privacy Policy should be publicly accessible.
+
+-----------------------------------------------------
+
+Section 3 - Contact Information
+
+Rule 5:
+Every vendor should provide Contact Information.
+
+Rule 6:
+Contact page should contain email or phone number.
+
+-----------------------------------------------------
+
+Section 4 - Legal
+
+Rule 7:
+Vendor should publish Terms and Conditions.
+
+Rule 8:
+Vendor should publish Cookie Policy if applicable.
+
+-----------------------------------------------------
+
+Section 5 - Information Security
+
+Rule 9:
+ISO 27001 Certification is recommended.
+
+Rule 10:
+SOC 2 Certification is an added advantage.
+
+-----------------------------------------------------
+
+Section 6 - Regional Compliance
+
+Rule 11:
+European vendors should comply with GDPR.
+
+Rule 12:
+US vendors should comply with applicable privacy laws.
+
+-----------------------------------------------------
+
+Section 7 - Final Decision
+
+If HTTPS, Privacy Policy and Contact Information are available,
+vendor can be marked as LOW RISK.
+
+If one or more mandatory rules are missing,
+vendor should be marked as MEDIUM or HIGH RISK.
